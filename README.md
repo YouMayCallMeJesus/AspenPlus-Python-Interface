@@ -4,16 +4,16 @@ Aspen Plus to Python interface for the automation of the process synthesis. This
 
 
 Capabilities:
-- Editing Flowsheets
+- Editing flowsheets
 - Creating new flowsheet parts
-- Setting values in Equipment
+- Setting values in equipment
 - running simulations
 - exporting results from simulations
 - using optimization algorithms to optimize flowsheet
 
 
 Applications:
-- Bachelorthesis: Reinforcement learning approach to solve Destillation column sequencing (terrible code!! not worth reading or using) for the improved version go to: CHRIS or MIGLEY
+- [Bachelorthesis](https://github.com/YouMayCallMeJesus/ReinforcementlearningWithDestillationColumns): Reinforcement learning approach to solve Destillation column sequencing (terrible code!! not worth reading or using) for the improved version go to: [CHRIS](https://github.com/ADChristos/Aspen-RL) or [MIGLEY](https://github.com/lollcat/Aspen-RL)
 - Case 1: Varying stagenumber in Destillation column to optimize energy usage
 - Case 2: applying genetic algorithm to optimize TAC for destillation column sequence
 - Almost all automated optimizations for the design of Aspen Plus programs can be done here since most variables are included in this library.
