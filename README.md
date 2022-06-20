@@ -1,5 +1,5 @@
 # AspenPythonInterface
-Aspen Plus to Python interface for the automation of the process synthesis. This API can be used for most equipment inside of the Aspen Plus system. The library consists of around 5000 lines of code which are made up of small functions which each are able to set or get some value in the aspen plus user interface. It is based on the automation server which aspen plus has implemented together with the variable manager. 
+Aspen Plus to Python interface for the automation of the process synthesis. This API can be used for most equipment inside of the Aspen Plus system. The library consists of around 5000 lines of code which are made up of many smaller functions which each are able to set or get some value in the aspen plus user interface. It is based on the automation server which aspen plus has implemented together with the variable manager. 
 
 
 
@@ -30,6 +30,12 @@ Equipment included:
 - RPLUG
 - RCSTR
 - RYIELD
+
+
+
+Future implementations:
+- Cost analysis for everything (aka combining [this](https://github.com/weepctxb/ChemEngDPpy) sizing and costing library with my library)
+
 
 
 Concerning licences and the freedom to use it: You are welcome to use it for any project you have. If you start making significant money with it please email me. For academic research you are ofcourse welcome to use it but please cite me.
