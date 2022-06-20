@@ -43,3 +43,8 @@ If you have a problem with something or any questions send me a email: Richardxt
 
 
 
+Other peoples work which is in a similar area as this one:
+https://github.com/edgarsmdn/Aspen_HYSYS_Python
+https://github.com/Shen-SJ/pyAspenPlus/tree/main/pyAspenPlus
+https://towardsdatascience.com/automated-aspen-hysys-modelling-4c5187563167
+
