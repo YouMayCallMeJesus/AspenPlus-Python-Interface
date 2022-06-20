@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: ten Hagen
+    given-names: Richard Wolfgang
+
+title: "AspenPlus Python Interface"
+version: 2.1
+doi: Missing DOI
+date-released: 2022-07-01
