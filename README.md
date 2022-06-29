@@ -20,7 +20,7 @@ Applications:
 
 
 
-Equipment included:
+Equipment included:    (input&output function for each page)
 - Streams
 - DSTWU
 - Flash2
