@@ -48,3 +48,11 @@ https://github.com/edgarsmdn/Aspen_HYSYS_Python
 https://github.com/Shen-SJ/pyAspenPlus/tree/main/pyAspenPlus
 https://towardsdatascience.com/automated-aspen-hysys-modelling-4c5187563167
 
+
+
+Useful links:
+Describes how to create a instance in VBA
+https://chejunkie.com/knowledge-base/aspen-plus-automation-open-simulation-in-vba/
+Using Variable explorer
+https://chejunkie.com/knowledge-base/navigating-variable-explorer-aspen-plus/
+
